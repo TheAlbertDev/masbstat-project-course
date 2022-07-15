@@ -66,6 +66,13 @@ TBD-step-1-information
 
 </details>
 
+<details id=2 open>
+<summary><h2>Step 2: Hola que tal</h2></summary>
+
+Lorem ipsum.
+
+</details>
+
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
