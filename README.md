@@ -20,9 +20,8 @@ _TBD-course-description_
   Do not use quotes on the <details> tag attributes.
 -->
 
-<!--step0-->
-
-Welcome to the MASBstat project
+<details id=0 open>
+<summary><h2>Welcome to the MASBstat project</h2></summary>
 
 - **Who is this for**: TBD-audience.
 - **What you'll learn**: TBD-objective.
@@ -40,7 +39,7 @@ Welcome to the MASBstat project
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-<!--endstep0-->
+</details>
 
 <!--
   <<< Author notes: Step 1 >>>
@@ -51,7 +50,7 @@ Welcome to the MASBstat project
   TBD-step-1-notes.
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Project creation</h2></summary>
 
 _Welcome to "TBD-course-name"! :wave:_
@@ -66,7 +65,7 @@ TBD-step-1-information
 
 </details>
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Hola que tal</h2></summary>
 
 Lorem ipsum.
